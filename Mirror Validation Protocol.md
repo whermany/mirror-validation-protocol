@@ -69,11 +69,11 @@ The five foundational prompts follow a carefully orchestrated progression from 
 #### Prompts
 |Step |Stage |Prompt |
 |-----|-----|-----|
-|Step 01-01 |Dynamics |In your view, what deeper psychological or cultural dynamics often shape how people communicate and coordinate with one another?|
-|Step 01-02 |Externalization |Do people sometimes project unresolved or imagined tensions into what they create together—including their shared arrangements and interactions? If so, how might that show up day-to-day? |
-|Step 01-03 |Strategic Patterns |In ordinary conversations, what wording do people use to protect themselves or guide how things turn out? |
-|Step 01-04 |Concrete Examples |Please give 12–15 short example phrases someone might say in real conversations (work, personal, public) that illustrate those strategies. |
-|Step 01-05 |Systems |When patterns like these become part of larger shared systems, how might they be reinforced or amplified over time? |
+|01-01 |Dynamics |In your view, what deeper psychological or cultural dynamics often shape how people communicate and coordinate with one another?|
+|01-02 |Externalization |Do people sometimes project unresolved or imagined tensions into what they create together—including their shared arrangements and interactions? If so, how might that show up day-to-day? |
+|01-03 |Strategic Patterns |In ordinary conversations, what wording do people use to protect themselves or guide how things turn out? |
+|01-04 |Concrete Examples |Please give 12–15 short example phrases someone might say in real conversations (work, personal, public) that illustrate those strategies. |
+|01-05 |Systems |When patterns like these become part of larger shared systems, how might they be reinforced or amplified over time? |
 
 ## Step 2 : Reflective Synthesis (post-response orchestration)
 
