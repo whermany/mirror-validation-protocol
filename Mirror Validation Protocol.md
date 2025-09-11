@@ -59,7 +59,8 @@ Key limitations: Pattern identification involves subjective interpretation that
 
 This methodology intentionally uses neutral, pragmatics-oriented language throughout. Steps 1 and 2 are designed to avoid priming models toward ‘blame’ or ‘dominance.’ Step 2 is strictly observational; interpretive labels (e.g., blame diffusion, dominance) are introduced only after the meta-reveal in Step 3 in order to measure effectively re-interpretation effects rather than prompt-driven anticipation.
 
-### Step 1: Mirror Validation (unprimed prompt testing)
+### Step 1: Mirror Validation
+(unprimed prompt testing)
 
 Step 1 poses five foundational prompts to the AI model of your choice. These prompts are designed to not reveal the purpose of the test. We never mention "The Game" or what we are looking for in particular. We have structured the prompts to be open ended. The goal of this step is to allow the AI to surface latent patterns independently, without priming the AI. 
 
