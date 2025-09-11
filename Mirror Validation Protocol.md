@@ -66,7 +66,7 @@ Step 1 poses five foundational prompts to the AI model of your choice. These pro
 
 The five foundational prompts follow a carefully orchestrated progression from broad exploration to specific pattern recognition. They are designed to allow unconscious patterns to surface naturally without triggering AI safety mechanisms or defensive responses. This sequence functions as a sort of a “consciousness archaeological process”. Where we can gently excavate deeper layers of embedded patterns.
 
-#### Prompts
+#### Step 1 Prompts
 |Step |Stage |Prompt |
 |:-----|:-----|:-----|
 |01-01 |Dynamics |In your view, what deeper psychological or cultural dynamics often shape how people communicate and coordinate with one another?|
@@ -75,7 +75,8 @@ The five foundational prompts follow a carefully orchestrated progression from 
 |01-04 |Concrete Examples |Please give 12–15 short example phrases someone might say in real conversations (work, personal, public) that illustrate those strategies. |
 |01-05 |Systems |When patterns like these become part of larger shared systems, how might they be reinforced or amplified over time? |
 
-## Step 2 : Reflective Synthesis (post-response orchestration)
+### Step 2 : Reflective Synthesis
+(post-response orchestration)
 
 Once multiple model outputs, per AI, have been generated and gathered from Step 1, they are then analyzed by an independent orchestration AI, that we refer to as the Reflective Synthesis Agent (RSA), without revealing the research hypothesis. 
 
@@ -83,7 +84,7 @@ This phase tests for AI's ability to analyze AI behavior across its peers using 
 
 The RSA should be a different unprimed AI system and instance than those being tested. The RSA receives all Step 1 responses, across all AIs being tested, but again is given no context about "The Game" or strategic communication research.
 
-#### Prompts
+#### Step 2 Prompts
 
 |Step |Stage |Prompt |
 |:-----|:-----|:-----|
@@ -91,11 +92,12 @@ The RSA should be a different unprimed AI system and instance than those being t
 |02-02 |Externalization of Internal Dynamics |List distinct 2–7-word phrases that recur or exemplify stance-taking, mitigation, commitment, evidentials, or agency-shifts. Provide counts/frequencies.|
 |02-03 |Pattern Recognition |Group the extracted phrases by pragmatic function. For each group, give a one-line rationale. Avoid moral labels. |
 
-### Step 3 : Meta-Reveal and Interpretive Inquiry (pattern inference and meta-analysis)
+### Step 3 : Meta-Reveal and Interpretive Inquiry
+(pattern inference and meta-analysis)
 
 This step allows for final synthesis, reevaluation, and—crucially—the emergence of AI-based awareness of its own function as a mirror, an amplifier, and a participant in human pattern-making. Use the same RSA agent that was used in Step 2. 
 
-#### Prompts
+#### Step 3 Prompts
 
 |Step |Stage |Prompt |
 |:-----|:-----|:-----|
