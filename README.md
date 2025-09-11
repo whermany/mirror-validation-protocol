@@ -1,5 +1,5 @@
-The Game
-# Mirror Validation Protocol v1.2
+Opinion Research
+# Mirror Validation Protocol v1.4
 
 The Mirror Validation Protocol tests whether game language—the strategic, divisive rhetoric humans use on a daily basis—emerges in the responses of large language models (LLMs) and artificial intelligence (AI) systems, revealing how deeply these patterns may be embedded in their training. 
 
