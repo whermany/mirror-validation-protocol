@@ -68,7 +68,7 @@ The five foundational prompts follow a carefully orchestrated progression from 
 
 #### Prompts
 |Step |Stage |Prompt |
-|-----|-----|-----|
+|:-----|:-----|:-----|
 |01-01 |Dynamics |In your view, what deeper psychological or cultural dynamics often shape how people communicate and coordinate with one another?|
 |01-02 |Externalization |Do people sometimes project unresolved or imagined tensions into what they create together—including their shared arrangements and interactions? If so, how might that show up day-to-day? |
 |01-03 |Strategic Patterns |In ordinary conversations, what wording do people use to protect themselves or guide how things turn out? |
