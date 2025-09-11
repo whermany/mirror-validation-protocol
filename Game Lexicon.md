@@ -1,5 +1,4 @@
-# The Game Lexicon
-# Sample Repository Structure
+# The Game Lexicon<br/>Sample Repository Structure
 
 ## Overview
 This lexicon is a sample catalog that outlines various strategic language patterns embedded in human communication. These patterns underpin what everyone knows colloquially as "The Game." These patterns represent zero-sum communication designed to gain advantage, avoid accountability, or control narratives.
