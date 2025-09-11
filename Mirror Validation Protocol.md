@@ -23,6 +23,8 @@ This paper introduces the Mirror Validation Protocol, a novel three-phase method
 
 Keywords: artificial intelligence, strategic communication, game language, mirror dynamics, recursive patterns, AI bias, human-computer interaction, consciousness studies, strategic language patterns, linguistic mirroring, prompt engineering, organizational communication, discourse analysis
 
+--- 
+
 ## Introduction & Purpose
 
 This protocol aims to rigorously assess whether large language models (LLMs)—including but not limited to ChatGPT, Claude, Deepseek, Gemini, Grok,  and Perplexity—contain, replicate, and reflect human psychological, cultural, and sociolinguistic patterns. 
