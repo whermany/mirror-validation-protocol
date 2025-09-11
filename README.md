@@ -18,7 +18,10 @@ And so, the very tools that could free us are now being used to fortify The Gam
 ---
 
 YAML
+
 TEMPLATES
+
 RAW OUTPUTS
+
 [An Internal Link](/guides/content/editing-an-existing-page)
 
