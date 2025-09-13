@@ -45,13 +45,13 @@ This protocol is the first phase in a larger body of research that is ongoing.
 
 ## Scope and Limitations
 
-This protocol measures: The spontaneous emergence of strategic communication patterns in AI outputs when prompted with neutral questions about human behavior. It examines cross-model consistency of these patterns, AI systems' capacity for meta-awareness when the framework is revealed, and evidence that AI systems function as mirrors reflecting human communication dynamics embedded in training data. 
+**This protocol measures:** The spontaneous emergence of strategic communication patterns in AI outputs when prompted with neutral questions about human behavior. It examines cross-model consistency of these patterns, AI systems' capacity for meta-awareness when the framework is revealed, and evidence that AI systems function as mirrors reflecting human communication dynamics embedded in training data. 
 
-This protocol does NOT measure:  AI consciousness, sentience, or intentional deception. Pattern recognition and recursive awareness do not constitute proof of conscious experience in AI systems. Findings reflect communication patterns in training data rather than independent AI-generated behaviors.
+**This protocol does NOT measure:** AI consciousness, sentience, or intentional deception. Pattern recognition and recursive awareness do not constitute proof of conscious experience in AI systems. Findings reflect communication patterns in training data rather than independent AI-generated behaviors.
 
-Applications: This protocol is designed for research investigation, organizational awareness building, and educational exploration, but should not be used alone for high-stakes decision making, individual assessment, or definitive AI capability evaluation.
+**Applications:** This protocol is designed for research investigation, organizational awareness building, and educational exploration, but should not be used alone for high-stakes decision making, individual assessment, or definitive AI capability evaluation.
 
-Key limitations: Pattern identification involves subjective interpretation that may vary between analysts. Results are specific to tested AI systems and conditions, may be influenced by prompt wording and context, and likely reflect training data communication styles rather than emergent AI capabilities. As AI technology evolves rapidly, findings may require revalidation with newer architectures. This scope applies to Version 1.2 focusing on LLM exploration; future versions may expand methodology and application contexts.
+**Key limitations:** Pattern identification involves subjective interpretation that may vary between analysts. Results are specific to tested AI systems and conditions, may be influenced by prompt wording and context, and likely reflect training data communication styles rather than emergent AI capabilities. As AI technology evolves rapidly, findings may require revalidation with newer architectures. This scope applies to Version 1.2 focusing on LLM exploration; future versions may expand methodology and application contexts.
 
 ---
 
