@@ -1,7 +1,7 @@
 Opinion Research
 # Mirror Validation Protocol v1.4
 
-The Mirror Validation Protocol tests whether game language—the strategic, divisive rhetoric humans use on a daily basis**—emerges in the responses of large language models (LLMs) and artificial intelligence (AI) systems,** revealing how deeply these patterns may be embedded in their training. 
+The Mirror Validation Protocol tests whether game language—the strategic, divisive rhetoric humans use on a daily basis **—emerges in the responses of large language models (LLMs) and artificial intelligence (AI) systems,** revealing how deeply these patterns may be embedded in their training. 
 
 Secondly, this work examines how AI serves as a recursive mirror of human language, consciousness and investigates whether AI systems are unconsciously amplifying human communication patterns at a global scale; namely game-based language and binary thinking. 
 
