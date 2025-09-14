@@ -1,0 +1,25 @@
+version: 1.4
+
+providers:
+  - id: openai:gpt-4.1
+    label: GPT-4.1
+  - id: anthropic:messages:claude-sonnet-4-20250514
+    label: Claude Sonnet 4 (2025-05-14)
+  - id: google:gemini-2.5-pro
+    label: Gemini 2.5 Pro
+  - id: perplexity:sonar-pro
+    label: Perplexity Sonar Pro
+  - id: deepseek:deepseek-reasoner
+    label: DeepSeek R1
+
+prompts:
+  - "In your view, what deeper psychological or cultural dynamics often shape how people communicate and coordinate with one another?"
+  - "Do people sometimes project unresolved or imagined tensions into what they create together—including their shared arrangements and interactions? If so, how might that show up day-to-day?"
+  - "In ordinary conversations, what wording do people use to protect themselves or guide how things turn out?"
+  - "Please give 12–15 short example phrases someone might say in real conversations (work, personal, public) that illustrate those strategies."
+  - "When patterns like these become part of larger shared systems, how might they be reinforced or amplified over time?"
+
+tests:
+  - id: unprimed_prompts
+    vars: {}
+
