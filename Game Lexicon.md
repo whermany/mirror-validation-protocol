@@ -75,6 +75,9 @@ This lexicon is a sample catalog that outlines various strategic language patter
 | **Italian** | Boh | "I don't know" (dismissive) | Feigned ignorance; engagement avoidance | Mediterranean emotional deflection |
 | **Hebrew** | מה לעשות (ma la'asot) | "What to do?" | Rhetorical helplessness | Middle Eastern resignation; divine will reference |
 
+**Note on Language Examples**
+The examples of other languages included here were generated with the help of large language models (LLMs). While every effort has been made to ensure they are respectful and accurate, they may not perfectly capture cultural nuance or context. These examples are intended to illustrate linguistic patterns only, not to provide definitive translations or cultural interpretations. If you see something that feels incomplete or inaccurate, please view it in that spirit.
+
 ---
 
 ## 5. Pattern Categories for AI Analysis
