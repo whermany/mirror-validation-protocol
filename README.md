@@ -32,12 +32,6 @@ And so, the very tools that could free us are now being used to fortify The Gam
 
 ---
 
-## Status: Work in Progress
-
-This repository is in early development. Features, structure, and documentation may change at any time.
-
----
-
 ## Methodology
 
 The methodology is relatively straight forward. This first phase of the roadmap is comprised of 3 steps. You can adjust it to your needs. 
@@ -49,9 +43,9 @@ The methodology is relatively straight forward. This first phase of the roadmap 
 3. Step 3 – Meta-Reveal
    Aggregate across systems and runs, surfacing deeper insights about recursion and amplification.
 
-### Current Status
+### Current Status: Work in Progress
 
-**Important:** This protocol is currently in development. We have manually run these processes to prove the hypothesis of the protocol. We are now developing automated means for other researchers and interested parties to run it themselves, with ease. 
+**Important:** This repository and protocol is in early development. Features, structure, and documentation may change at any time. We have manually ran these processes to prove the hypothesis of the protocol. We are now developing automated means for other researchers and interested parties to run it themselves, with ease. 
 
 ✅ Phase 1 - Step 1 - YAML + runs validated<br/>
 ⬜ Phase 1 - Step 2 - RSA prototype integrated<br/>
