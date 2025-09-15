@@ -47,8 +47,8 @@ The methodology is relatively straight forward. This first phase of the roadmap 
 
 **Important:** This protocol is currently in development. We have manually run these processes to prove the hypothesis of the protocol. We are now developing automated means for other researchers and interested parties to run it themselves, with ease. 
 
-✅ Phase 1 - Step 1 - YAML + runs validated
-⬜ Phase 1 - Step 2 - RSA prototype integrated
+✅ Phase 1 - Step 1 - YAML + runs validated<br/>
+⬜ Phase 1 - Step 2 - RSA prototype integrated<br/>
 ⬜ Phase 1 - Step 3 - analysis (community testing ongoing)
 
 ---
