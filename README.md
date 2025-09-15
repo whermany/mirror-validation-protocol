@@ -32,6 +32,12 @@ And so, the very tools that could free us are now being used to fortify The Gam
 
 ---
 
+## Status: Work in Progress
+
+This repository is in early development. Features, structure, and documentation may change at any time.
+
+---
+
 ## Methodology
 
 The methodology is relatively straight forward. This first phase of the roadmap is comprised of 3 steps. You can adjust it to your needs. 
