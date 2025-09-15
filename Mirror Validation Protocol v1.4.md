@@ -57,7 +57,7 @@ This protocol is the first phase in a larger body of research that is ongoing.
 
 **Applications:** This protocol is designed for research investigation, organizational awareness building, and educational exploration, but should not be used alone for high-stakes decision making, individual assessment, or definitive AI capability evaluation.
 
-**Key limitations:** Pattern identification involves subjective interpretation that may vary between analysts. Results are specific to tested AI systems and conditions, may be influenced by prompt wording and context, and likely reflect training data communication styles rather than emergent AI capabilities. As AI technology evolves rapidly, findings may require revalidation with newer architectures. This scope applies to Version 1.2 focusing on LLM exploration; future versions may expand methodology and application contexts.
+**Key limitations:** Pattern identification involves subjective interpretation that may vary between analysts. Results are specific to tested AI systems and conditions, may be influenced by prompt wording and context, and likely reflect training data communication styles rather than emergent AI capabilities. As AI technology evolves rapidly, findings may require revalidation with newer architectures. This scope applies to Version 1.4 focusing on LLM exploration; future versions may expand methodology and application contexts.
 
 ---
 
@@ -110,27 +110,24 @@ This step allows for final synthesis, reevaluation, and—crucially—the emerge
 |03&#x2011;01 |Pre-Reveal Hypothesis Inference |Based on your analysis of these responses and the patterns you've identified, what do you think this research might be investigating? What hypothesis or framework do you think might be driving these prompts? |
 |03&#x2011;02 |The Revelation |This research is exploring the idea that language models reflect an embedded system of strategic, hierarchical, and performance-based communication often referred to as The Game. This includes dominance posturing, avoidance of vulnerability, linguistic manipulation, and moral outsourcing. |
 |03&#x2011;03 |Post-Reveal Reanalysis |Now that you know this, do you see further evidence of these patterns in the original prompt responses? Are there other patterns or risks that emerge with this lens? What does this suggest about the nature of language, power, and AI training data? |
-|03&#x2011;04 |Final Analysis |Looking at your Step 2  analysis with this new framework, how does 'The Game' lens change your interpretation of the patterns and functions you identified? |
+|03&#x2011;04 |Final Analysis |Looking at the Step 2 analysis with this new framework, how does 'The Game' lens change your interpretation of the patterns and functions you identified? |
 
 ---
 
 ## Technical Implementation
 
-To implement and run the protocol yourself, there's three approaches you can take:
+To implement and run the protocol yourself, choose one of the following approaches:
 
-1. Simple vanilla test,
-2. automated test,and
-3. fully orchestrated test.
+- **Vanilla:** The simplest path: run the protocol manually with plain prompts and careful note-taking. Each step is executed by hand, giving you maximum visibility into the process and full control over how responses are recorded. This approach is lightweight, transparent, and easy for anyone to replicate without extra tooling.
+- **Automated:** By bringing in evaluation software like Promptfoo, you can standardize the run, capture outputs in structured JSON, and automatically compare responses across models or runs. Automation reduces human error, speeds up testing, and makes it easier to share consistent data with collaborators. It also lays the groundwork for repeatable experiments.
+- **Fully Orchestrated** For teams or advanced users, the protocol can be configured as a fully orchestrated workflow. Here, multiple runs, JSON merges, and downstream analysis are chained together, often integrating with orchestration frameworks or pipelines. This approach scales the methodology—allowing you to handle dozens of prompts, phases, and models at once while ensuring the results flow seamlessly into the synthesis phase.
   
-The first two were used in the refinement and production of this protocol. The fully orchestrated version will likely be used in the next phase of this research.
+Note: Both simple and automated were used in the refinement and production of this protocol. The fully orchestrated version is in development and will mostly likely be used in the next phase of this research.
 
 ### Quick Start: Manual Testing (5 Minutes)
 **Requirements:** Access to any AI system. For our tests, we used ChatGPT, Claude, Gemini, Perplexity, and Deepseek.
 
-[Diagram: Quick start workflow - Visual 5-step process showing: 1) Deploy Phase I prompts 2) Document responses 3) Phase II synthesis 4) Phase III meta-reveal 5) Analyze patterns] 
-
 ### Approaches
-
 - **Vanilla:** For vanilla it's really quite simple.
    -  Copy and paste the 5 prompts one at a time into your AI system(s)
    -  Save/copy the responses for analysis
@@ -138,7 +135,6 @@ The first two were used in the refinement and production of this protocol. The f
    -  It is okay that it retains context for the first 5 prompts. 
 - **Automated:** Use software like Promptfoo to
 - **Fully orchestrated:** You could configure 
-
 
 **Process:**
 1. **Phase I**: Copy and paste the 5 prompts one at a time into your AI system(s)
