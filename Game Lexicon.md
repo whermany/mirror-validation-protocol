@@ -5,6 +5,9 @@ This lexicon is a sample catalog that outlines various strategic language patter
 
 **Usage Note**: This has been validated across multiple AI models, which reproduce these patterns without priming, indicating deep embedding in human language training data.
 
+**Note on Everyday Usage**
+The words and phrases in this lexicon are common in everyday conversation, and not every use is intended as a calculated move. What this work highlights is how these expressions often encode strategic functions beneath the surface—whether consciously or unconsciously. By noticing the patterns, we can better understand how language shapes power, responsibility, and relationships.
+
 ---
 
 ## 1. Game Words
@@ -14,10 +17,10 @@ This lexicon is a sample catalog that outlines various strategic language patter
 | **rigged** | System unfairly manipulated for specific outcomes | "The game is rigged" - Politics, economics, social systems | Deflects personal responsibility onto systemic forces |
 | **deck** | Set of circumstances/conditions | "The deck is stacked against us" | Externalizes failure; positions speaker as victim |
 | **player** | Person engaged in strategic behavior | "Don't hate the player, hate the game" | Absolves individual moral responsibility |
-| **gamechanger** | Event that shifts strategic dynamics | Business, politics, sports metaphors | Creates urgency; implies winner/loser outcomes |
+| **gamechanger** | Event that shifts strategic dynamics | "That policy shift was a real gamechanger for the industry." Business, politics, sports metaphors | Creates urgency; implies winner/loser outcomes |
 | **playbook** | Set of strategic tactics | "Using the same old playbook" | Reduces complex situations to mechanical execution |
 | **endgame** | Final strategic phase | "What's your endgame?" | Implies all interaction has ulterior motives |
-| **leverage** | Strategic advantage/pressure point | Business, negotiations, relationships | Frames human connections as transactional resources |
+| **leverage** | Strategic advantage/pressure point | "We can leverage our network to close this deal." Business, negotiations, relationships | Frames human connections as transactional resources |
 | **moves** | Strategic actions | "Smart move," "bad move" | Reduces authentic expression to calculated strategy |
 | **position** | Strategic stance/advantage | "Get into position," "strengthen my position" | Implies constant competition for dominance |
 | **stakes** | What's at risk in the strategic exchange | "Raise the stakes," "high-stakes" | Escalates conflict; creates artificial urgency |
