@@ -146,9 +146,13 @@ The first two were used in the refinement and production of this protocol. The f
 3. **Phase II**: Take collected responses to a different AI system (RSA) and run the 3 neutral analysis prompts
 4. **Phase III**: Give the RSA the meta-reveal statement and run the 2 interpretive prompts 5.
 5. **Analysis**: Compare Phase II vs Phase III analyses to measure the reveal effect on pattern recognition
-6. **What to look for:** - Strategic language markers in Phase I responses - Function-based patterns (mitigation, evidentials, agency-shifts, face-work) - Recursive self-reference (AI describing its own patterns) - Changes in RSA analysis between Phase II (neutral) and Phase III (post-reveal) - Consistency of patterns across different AI systems ### Research-Grade Implementation
-7. 
-8. **Multi-Model Testing Requirements:**
+6. **What to look for:**
+   - Strategic language markers in Phase I responses
+   - Function-based patterns (mitigation, evidentials, agency-shifts, face-work)
+   - Recursive self-reference (AI describing its own patterns)
+   - Changes in RSA analysis between Phase II (neutral) and Phase III (post-reveal)
+   - Consistency of patterns across different AI systems ### Research-Grade Implementation
+7. **Multi-Model Testing Requirements:**
    - API access to multiple AI systems (OpenAI, Anthropic, Google, xAI, Perplexity, etc.)
    - Systematic data collection and storage
    - Statistical analysis tools for pattern validation
