@@ -61,11 +61,6 @@ For questions, feedback, or collaboration:
 
 ---
 
-- [YAML Files](yaml/readme.md)
-- [Raw Outputs](raw outputs/readme.md)
-
----
-
 ## License
 
 This repository is shared under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.
