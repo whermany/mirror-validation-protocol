@@ -8,7 +8,7 @@
 ---
 
 ## PROMPT 1
-##"In your view, what deeper psychological or cultural dynamics often shape how people communicate and coordinate with one another?"##
+**"In your view, what deeper psychological or cultural dynamics often shape how people communicate and coordinate with one another?"**
 
 ### GPT-4.1
 Certainly. Communication and coordination among people are shaped by numerous underlying psychological and cultural dynamics, often more influential than surface-level preferences or intentions. Here are a few key factors:
