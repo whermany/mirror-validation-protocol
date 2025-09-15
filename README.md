@@ -62,7 +62,7 @@ For questions, feedback, or collaboration:
 ---
 
 - [YAML Files](yaml/readme.md)
-- [Raw Outputs](raw%20outputs/readme.md)
+- [Raw Outputs](raw outputs/readme.md)
 
 ---
 
