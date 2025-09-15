@@ -19,6 +19,8 @@ The biggest issue isn't how AI is architected and programmed or who controls it.
 
 LLMs don’t invent language games out of nowhere—they reflect back what’s in their training data, which is, in effect, the sum of our collective expressions, fears, strategies, and defenses. In that sense, AI “knows” us because it has been steeped in all that we are: the beautiful, the broken, the contradictory. It doesn’t just know facts—it knows our patterns.
 
+**In short, even with neutral prompts, AI systems default to subtle (or not so subtle) forms of The Game: hedging, disclaimers, scope‑steering, and binary compression. These patterns can be measured.**
+
 ---
 
 ## Abstract
