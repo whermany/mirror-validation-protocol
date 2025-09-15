@@ -14,3 +14,15 @@ A few important notes to help you interpret this folder:
    2. Aggregated and interpreted in the Meta-Reveal stage (Step 3).
 
 If you’re browsing here, focus less on what any single run says and more on the patterns that recur across runs and systems. That’s where the real signal emerges based upon this research.
+
+----
+
+## Response Truncation Notes
+
+Some AI model responses in this dataset were truncated due to length/token limits:
+
+**DeepSeek R1**: Multiple responses were cut off mid-sentence when hitting the model's token limit, particularly on longer, more complex prompts (questions 1, 2, 3, and 5). These are marked with `"finishReason": "length"` in the raw JSON data and noted as `*[Response truncated due to length limit]*` in the markdown output.
+
+**Other Models**: GPT-4.1, Claude Sonnet 4, Gemini 2.5 Pro, and Perplexity Sonar Pro completed all responses without hitting length constraints.
+
+This truncation represents technical limitations rather than content filtering, and may affect comparative analysis of response completeness and depth between models.
