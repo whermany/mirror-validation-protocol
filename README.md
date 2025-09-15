@@ -61,8 +61,8 @@ For questions, feedback, or collaboration:
 
 ---
 
-- [YAML Files](/yaml/readme.md)
-- [Raw Outputs](/raw-outputs/readme.md)
+- [YAML Files](yaml/readme.md)
+- [Raw Outputs](raw-outputs/readme.md)
 
 ---
 
